@@ -1,0 +1,4 @@
+name: text-stats
+version: 1.0.0
+description: "Compute text statistics (word/char/line counts, reading time) for any file or string. A minimal reference plugin demonstrating the OpenAmer plugin API."
+author: "openamer"
