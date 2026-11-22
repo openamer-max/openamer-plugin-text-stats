@@ -37,3 +37,11 @@ for the full API.
 
 - `plugin.yaml` — manifest (name, version, description, author)
 - `__init__.py` — the `register(ctx)` entry point + tool schema + handler
+
+---
+
+## Kontakt
+
+Fragen, Fehlerberichte, Sponsoring: **openamer-max@proton.me**
+
+Unterstützen: [PayPal](https://www.paypal.com/qrcodes/p2pqrc/BVZD4HRJ9G6YG) · [Website](https://openamer-max.github.io/)
